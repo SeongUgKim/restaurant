@@ -1,0 +1,46 @@
+[
+  {
+    "name": "NAVER",
+    "number_of_employees": 4103,
+    "services": [
+      "Search portal",
+      "eCommerce",
+      "Webtoon"
+    ]
+  },
+  {
+    "name": "Kakao",
+    "number_of_employees": 10644,
+    "services": [
+      "Messenger",
+      "eCommerce",
+      "Webtoon"
+    ]
+  },
+  {
+    "name": "Line",
+    "number_of_employees": 2268,
+    "services": [
+      "Messenger",
+      "eCommerce",
+      "Games"
+    ]
+  },
+  {
+    "name": "Coupang",
+    "number_of_employees": 37000,
+    "services": [
+      "eCommerce",
+      "Food Delivery",
+      "OTT"
+    ]
+  },
+  {
+    "name": "Woowa Bros",
+    "number_of_employees": 900,
+    "services": [
+      "Food Delivery",
+      "Quick Commerce"
+    ]
+  }
+]
